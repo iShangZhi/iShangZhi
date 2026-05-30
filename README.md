@@ -20,7 +20,7 @@ AI 自进化工程框架，基于 Claude Agent 搭建，完成代码、规范与
   <img src="https://img.shields.io/badge/Framework-0EA5E9?style=flat-square" />
   <img src="https://img.shields.io/badge/Claude-Powered-38BDF8?style=flat-square" />
 </p>
-[View Repository](https://github.com/iShangZhi/CodePilot)
+[CodePilot](https://github.com/iShangZhi/CodePilot)
 
 ---
 
@@ -31,7 +31,7 @@ AI 技术栈知识库，整理大模型、AI 编程、Vibe Coding、智能体开
   <img src="https://img.shields.io/badge/AI-Coding-0369A1?style=flat-square" />
   <img src="https://img.shields.io/badge/Vibe-Coding-075985?style=flat-square" />
 </p>
-[View Repository](https://github.com/iShangZhi/AI-Stack-Book)
+[AI-Stack-Book](https://github.com/iShangZhi/AI-Stack-Book)
 
 ---
 
