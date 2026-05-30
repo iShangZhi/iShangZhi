@@ -13,17 +13,6 @@
 
 ## 📦 Core Projects
 
-### CodePilot
-AI 自进化工程框架，基于 Claude Agent 搭建，完成代码、规范与迭代的全链路闭环。
-<p>
-  <img src="https://img.shields.io/badge/AI-Agent-2383E2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Framework-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude-Powered-38BDF8?style=flat-square" />
-</p>
-[CodePilot](https://github.com/iShangZhi/CodePilot)
-
----
-
 ### AI-Stack-Book
 AI 技术栈知识库，整理大模型、AI 编程、Vibe Coding、智能体开发的笔记、配置与实战案例。
 <p>
