@@ -24,33 +24,6 @@ AI 技术栈知识库，整理大模型、AI 编程、Vibe Coding、智能体开
 
 ---
 
-## ⚙️ Tech Stack
-<div align="center">
-
-### AI Core
-
-
-
-
-<br/>
-
-### AI Development
-
-
-
-
-<br/>
-
-### Runtime & Env
-
-
-
-
-
-</div>
-
----
-
 <div align="center">
 <code>Focus on engineering & practical AI implementation</code>
 </div>
