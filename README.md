@@ -1,58 +1,61 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=520&lines=AI+Architect;Engineering+Practice;Build+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=520&lines=AI+Architect+%7C+Developer;LLM+%26+AI+Coding;AI+Native+Engineering" alt="Typing SVG" />
 </div>
 
 ---
 
-## 📊 Work Overview
+## 📊 Development Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iShangZhi&show_icons=true&theme=slate&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShangZhi&layout=compact&theme=slate&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=iShangZhi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShangZhi&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iShangZhi&theme=slate&hide_border=true" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iShangZhi&theme=github_dark&hide_border=true" width="80%" />
 </div>
 
 ---
 
-## 📦 Main Projects
+## 📦 Core Projects
 
 ### CodePilot
-Self-evolving engineering framework powered by Claude Agent.
+AI 自进化工程框架，基于 Claude Agent 搭建，完成代码、规范与迭代的全链路闭环。
 <p>
-  <img src="https://img.shields.io/badge/AI-Agent-94A3B8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Framework-64748B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Agent-2383E2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Framework-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude-Powered-38BDF8?style=flat-square" />
 </p>
-[View →](https://github.com/iShangZhi/CodePilot)
+[View Repository](https://github.com/iShangZhi/CodePilot)
 
 ---
 
 ### AI-Stack-Book
-Comprehensive knowledge base for LLM, AI Coding, Vibe Coding and AI Agent development.
+AI 技术栈知识库，整理大模型、AI 编程、Vibe Coding、智能体开发的笔记、配置与实战案例。
 <p>
-  <img src="https://img.shields.io/badge/Docs-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Coding-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Practice-64748B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Knowledge-Base-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Coding-0369A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vibe-Coding-075985?style=flat-square" />
 </p>
-[View →](https://github.com/iShangZhi/AI-Stack-Book)
+[View Repository](https://github.com/iShangZhi/AI-Stack-Book)
 
 ---
 
 ## ⚙️ Tech Stack
 <div align="center">
 
+### AI Core
 
 
 
 
 <br/>
 
+### AI Development
 
 
-![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-1E293B?style=for-the-badge&color=475569)
+
 
 <br/>
 
+### Runtime & Env
 
 
 
@@ -62,6 +65,6 @@ Comprehensive knowledge base for LLM, AI Coding, Vibe Coding and AI Agent develo
 
 ---
 
-<div align="center" style="color:#94A3B8">
-<em>Engineer, Code, Iterate</em>
+<div align="center">
+<code>Focus on engineering & practical AI implementation</code>
 </div>
