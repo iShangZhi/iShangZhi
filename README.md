@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm 李大侠🦞 👋
 
-<!--
-**iShangZhi/iShangZhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Architect & Developer based in Shenzhen, building AI-native tools and knowledge bases.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### [CodePilot](https://github.com/iShangZhi/CodePilot)
+一套以 Claude Agent 为引擎的自进化工程框架，让 AI 帮你写出高质量、可复用的代码规范。
+
+### [AI-Stack-Book](https://github.com/iShangZhi/AI-Stack-Book)
+我的 AI 技术栈知识库，收录大模型、AI Coding、Vibe Coding 与 Agent 开发实战笔记。
+
+---
+
+## 🛠️ Tech Stack
+| AI/ML | Dev Tools |
+|---|---|
+| LLM / AI Agents | Cursor / Claude Code |
+| Prompt Engineering | Python / TypeScript |
+| AI-native Engineering | macOS / Git |
+
+📍 Shenzhen, China
