@@ -1,17 +1,7 @@
 <div align="center">
 
-<!-- 打字机动画 -->
+<!-- 顶部打字机动画 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I'm+李大侠🦞;AI+Architect+%7C+Developer;Focus+on+LLM+%26+AI+Coding;Building+AI+Native+Tools" alt="Typing SVG" />
-
-<br/>
-
-<!-- 访客统计 -->
-
-
-<!-- 社交/状态徽章 -->
-[![GitHub followers](https://img.shields.io/github/followers/iShangZhi?style=flat-square&logo=github&color=blue)](https://github.com/iShangZhi)
-[![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square)]()
-[![Location](https://img.shields.io/badge/Location-Shenzhen-ff69b4?style=flat-square)]()
 
 </div>
 
@@ -19,19 +9,15 @@
 
 ## 📈 GitHub 数据看板
 <div align="center">
-
-<!-- 主页数据卡片 + 语言卡片 东京夜景主题（颜值高） -->
 <img src="https://github-readme-stats.vercel.app/api?username=iShangZhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShangZhi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-<!-- 连续提交统计 -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iShangZhi&theme=tokyonight&hide_border=true" width="80%" />
-
 </div>
 
 ---
 
-## 🚀 🔥 精选项目 Featured Projects
+## 🚀 精选项目 Featured Projects
 
 ### 🤖 [CodePilot](https://github.com/iShangZhi/CodePilot)
 > AI 自进化工程框架，基于 Claude Agent 构建，实现代码与规范闭环迭代
@@ -79,10 +65,6 @@
 
 ---
 
-## 💬 一句话寄语
 <div align="center">
-<i>Explore AI, Code with AI, Build the future together.</i>
-<br/>
-<br/>
-⭐ If you like my projects, welcome to Star & Follow!
+<i>Explore AI, Code with AI, Build the future.</i>
 </div>
