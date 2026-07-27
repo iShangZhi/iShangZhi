@@ -11,16 +11,6 @@
 
 ---
 
-## 📊 Development Metrics
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iShangZhi&theme=radical&hide_border=true" width="82%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iShangZhi&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShangZhi&layout=compact&theme=radical&hide_border=true" height="160" />
-</div>
-
 ---
 
 ## 📦 Core Projects
