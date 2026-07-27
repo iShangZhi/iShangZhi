@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## 📦 Core Projects
 ### AI-Stack-Book
 AI 技术栈知识库，整理大模型、AI 编程、Vibe Coding、智能体开发的笔记、配置与实战案例。
