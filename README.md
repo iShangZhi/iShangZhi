@@ -24,19 +24,6 @@ KovaWork 是一款 AI 协作工作台。它不只是一个聊天窗口——你�
 
 ---
 
-## 📦 Core Projects
-### AI-Stack-Book
-AI 技术栈知识库，整理大模型、AI 编程、Vibe Coding、智能体开发的笔记、配置与实战案例。
-<p>
-  <img src="https://img.shields.io/badge/Knowledge-Base-0284C7?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Coding-0369A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vibe-Coding-075985?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM-Agents-1d4ed8?style=flat-square" />
-</p>
-<a href="https://github.com/iShangZhi/AI-Stack-Book">AI-Stack-Book</a>
-
----
-
 ## 🧠 About Me
 - 🤖 Focus on LLM application development and multi-agent system engineering
 - 💻 Deep practitioner of Vibe Coding & AI-assisted software development
