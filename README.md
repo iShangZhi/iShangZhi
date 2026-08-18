@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, 我是李尚志</h1>
+<h1 align="center">Hi 👋, I'm Shangzhi Li</h1>
 <h3 align="center">AI 开发者 · LLM & Agent 工程师 · 深圳 🇨🇳</h3>
 
 <div align="center">
