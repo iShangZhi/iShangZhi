@@ -11,38 +11,14 @@ I'm Shangzhi Li, an AI developer based in Shenzhen. I go by **长风 (Changfeng)
 
 I work on LLM applications, agent systems, and AI-assisted software development. My interest is in the engineering that makes these systems useful: how agents run, how their work is managed, and how developers understand and improve the results.
 
-## From model capabilities to real work
+## Focus
 
-### 01 / Help agents finish the work
+- **Agent engineering** — orchestration, multi-agent collaboration, and context management.
+- **AI-assisted development** — coding agents, skills, and tools in everyday workflows.
+- **Runtime infrastructure** — model gateways, sandboxes, and observability.
 
-Explore orchestration, collaboration, and long-running tasks: how context persists, how progress can be inspected, and how execution recovers from failure.
+## Open source
 
-`Agent Engineering` · `Orchestration` · `Context & Memory`
+Building **[Open Agent Systems](https://github.com/Open-Agent-Systems)** to explore composable AI development tools and infrastructure. Let’s exchange ideas and build together.
 
-### 02 / Bring AI into everyday development
-
-Connect coding agents, skills, and tools to development workflows, from understanding requirements and writing code to validating delivery.
-
-`AI for Development` · `Coding Agents` · `Skills & Tools`
-
-### 03 / Build a reliable foundation for exploration
-
-Work through model access, isolated execution, observability, and resource governance so promising experiments can grow into maintainable systems.
-
-`Model Gateway` · `Sandbox` · `Observability`
-
----
-
-## Open Agent Systems
-
-I’m building [Open Agent Systems](https://github.com/Open-Agent-Systems), an open-source initiative around the foundations of the AI development ecosystem.
-
-The direction is to connect models, agents, tools, knowledge, and runtime infrastructure through capabilities that projects can use independently and compose together. The initiative is still taking shape; the website presents its vision and areas of exploration.
-
-[Explore the organization →](https://github.com/Open-Agent-Systems) · [Visit the website →](https://open-agent-systems.github.io/)
-
-## How I like to build
-
-Start with a concrete problem. Make the result usable. Learn from real use, and turn what works into reusable tools.
-
-I welcome conversations about agent engineering, developer tools, and open-source collaboration. Feel free to start a discussion in a relevant repository.
+[Explore the organization ↗](https://github.com/Open-Agent-Systems) · [Visit the website ↗](https://open-agent-systems.github.io/)
