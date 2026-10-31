@@ -17,16 +17,29 @@
 > **心有所向，行有所成。**  
 > Let purpose guide you. Let action define you.
 
-## 我的探索坐标 · Focus
+## 从模型能力，到真实工作 · My Focus
 
-| 方向 | 我关注的问题 |
-| :--- | :--- |
-| **智能体工程** · Agent Engineering | 任务如何编排？多智能体如何协作？上下文、人工介入和异常恢复如何衔接？ |
-| **AI 辅助研发** · AI for Development | 编码智能体、技能与工具，怎样真正进入日常研发和交付流程？ |
-| **运行基础设施** · Runtime Infrastructure | 从模型接入到沙箱执行，如何让系统可观察、可管理、可持续运行？ |
-| **开放协作** · Open Collaboration | 怎样把有效的实践变成独立可用、彼此兼容的开源能力？ |
+### 01 / 让智能体完成工作
 
-## 正在建设 · Open Agent Systems
+探索任务编排、多智能体协作与长程执行。关心的不只是一次回答，还包括上下文如何延续、过程如何检查，以及失败后如何恢复。
+
+`Agent Engineering` · `Orchestration` · `Context & Memory`
+
+### 02 / 让 AI 进入研发日常
+
+把编码智能体、技能和工具接入具体的研发流程。从理解需求、编写代码到验证交付，持续寻找真正有效的人机协作方式。
+
+`AI for Development` · `Coding Agents` · `Skills & Tools`
+
+### 03 / 为探索提供可靠基础
+
+关注模型接入、隔离执行、可观测性与资源治理。让实验能跑起来，也让有效的做法有机会走向可维护的系统。
+
+`Model Gateway` · `Sandbox` · `Observability`
+
+---
+
+## 把探索连接成生态 · Open Agent Systems
 
 我正在建设 **[Open Agent Systems](https://github.com/Open-Agent-Systems)**，围绕 AI 开发生态的工具与基础能力开展开源探索。
 
@@ -36,10 +49,16 @@
 
 **[探索组织 ↗](https://github.com/Open-Agent-Systems)** &nbsp; · &nbsp; **[了解生态愿景 ↗](https://open-agent-systems.github.io/zh/)**
 
-## 探索 → 构建 → 分享
+## 我的工作方式 · Explore → Build → Share
 
 **保持好奇**，理解新模型、新工具和新方法能解决什么问题。  
 **动手构建**，在具体场景里检验效果，也认真对待可靠性与使用体验。  
 **开放分享**，把有价值的经验沉淀下来，与同行一起完善。
 
-欢迎交流 **Agent 工程、AI 研发工具、云原生运行环境与开源协作**。可以从相关仓库的 Issue 开始，一起讨论具体的问题与想法。
+---
+
+**一起把想法变成可以使用的东西。**
+
+欢迎交流 Agent 工程、AI 研发工具、云原生运行环境与开源协作。带着一个具体问题、一段实践经验，或一个想验证的想法，在[相关仓库](https://github.com/Open-Agent-Systems)的 Issue 中开始讨论。
+
+<sub>保持好奇，认真构建，开放分享。 / Stay curious. Build with care. Share openly.</sub>

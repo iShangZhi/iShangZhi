@@ -11,11 +11,27 @@ I'm Shangzhi Li, an AI developer based in Shenzhen. I go by **长风 (Changfeng)
 
 I work on LLM applications, agent systems, and AI-assisted software development. My interest is in the engineering that makes these systems useful: how agents run, how their work is managed, and how developers understand and improve the results.
 
-## What I’m exploring
+## From model capabilities to real work
 
-- **Agent execution** — orchestration, persistent context, human intervention, and reliable recovery.
-- **AI development workflows** — connecting coding agents, reusable skills, tools, and delivery practices.
-- **Runtime infrastructure** — isolated environments, model access, observability, and resource governance.
+### 01 / Help agents finish the work
+
+Explore orchestration, collaboration, and long-running tasks: how context persists, how progress can be inspected, and how execution recovers from failure.
+
+`Agent Engineering` · `Orchestration` · `Context & Memory`
+
+### 02 / Bring AI into everyday development
+
+Connect coding agents, skills, and tools to development workflows, from understanding requirements and writing code to validating delivery.
+
+`AI for Development` · `Coding Agents` · `Skills & Tools`
+
+### 03 / Build a reliable foundation for exploration
+
+Work through model access, isolated execution, observability, and resource governance so promising experiments can grow into maintainable systems.
+
+`Model Gateway` · `Sandbox` · `Observability`
+
+---
 
 ## Open Agent Systems
 
