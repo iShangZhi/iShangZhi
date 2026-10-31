@@ -17,14 +17,10 @@
 > **心有所向，行有所成。**  
 > Let purpose guide you. Let action define you.
 
-## 关注方向
+## 正在探索
 
-- **智能体工程**：任务编排、多智能体协作与上下文管理。
-- **AI 辅助研发**：编码智能体、技能与工具融入日常研发。
-- **运行基础设施**：模型网关、沙箱与可观测性。
+**智能体工程 · AI 辅助研发 · 运行基础设施**
 
-## 开源实践
-
-正在建设 **[Open Agent Systems](https://github.com/Open-Agent-Systems)**，探索可组合的 AI 开发工具与基础能力。欢迎交流实践，一起构建。
+正在建设 **Open Agent Systems**，探索可组合的 AI 开发工具与基础能力。
 
 [探索组织 ↗](https://github.com/Open-Agent-Systems) · [访问官网 ↗](https://open-agent-systems.github.io/zh/)
