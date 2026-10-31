@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋, I'm Shangzhi Li</h1>
-<h3 align="center">AI 开发者 · LLM & Agent 工程师 · 深圳 🇨🇳</h3>
+# Changfeng · 长风
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&width=520&color=a855f7&lines=AI+Developer;Build+LLM+%26+Agent+Systems;Practice+Vibe+Coding;Engineer+practical+AI+solutions" alt="Typing SVG" />
-</div>
+**Building tools and foundations for AI-native systems.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iShangZhi&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile Views" />
-</p>
+English · [简体中文](README.zh-CN.md)
 
-## 🧠 关于我
+> 心有所向，行有所成。  
+> Let purpose guide you. Let action define you.
 
-- 🤖 专注于 LLM 应用开发与 Multi-Agent 系统工程
-- 💻 Vibe Coding 与 AI 辅助软件研发的深度实践者
-- 📚 持续维护面向开发者的开源 AI 技术栈与工程实践文档
-- 🎯 关注 AI 工程化落地，持续构建真正可用、可交付的 AI 解决方案
+I'm Shangzhi Li, an AI developer based in Shenzhen. I go by **长风 (Changfeng)** and build on GitHub as **iShangZhi**.
 
----
+I work on LLM applications, agent systems, and AI-assisted software development. My interest is in the engineering that makes these systems useful: how agents run, how their work is managed, and how developers understand and improve the results.
 
-<div align="center">
-<i><code>专注 AI 工程化 · 探索 Agent · 构建真正可落地的 AI 系统</code></i>
-</div>
+## What I’m exploring
+
+- **Agent execution** — orchestration, persistent context, human intervention, and reliable recovery.
+- **AI development workflows** — connecting coding agents, reusable skills, tools, and delivery practices.
+- **Runtime infrastructure** — isolated environments, model access, observability, and resource governance.
+
+## Open Agent Systems
+
+I’m building [Open Agent Systems](https://github.com/Open-Agent-Systems), an open-source initiative around the foundations of the AI development ecosystem.
+
+The direction is to connect models, agents, tools, knowledge, and runtime infrastructure through capabilities that projects can use independently and compose together. The initiative is still taking shape; the website presents its vision and areas of exploration.
+
+[Explore the organization →](https://github.com/Open-Agent-Systems) · [Visit the website →](https://open-agent-systems.github.io/)
+
+## How I like to build
+
+Start with a concrete problem. Make the result usable. Learn from real use, and turn what works into reusable tools.
+
+I welcome conversations about agent engineering, developer tools, and open-source collaboration. Feel free to start a discussion in a relevant repository.
