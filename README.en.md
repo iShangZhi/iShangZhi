@@ -11,10 +11,20 @@ I'm Shangzhi Li, an AI developer based in Shenzhen. I go by **长风 (Changfeng)
 
 I work on LLM applications, agent systems, and AI-assisted software development. My interest is in the engineering that makes these systems useful: how agents run, how their work is managed, and how developers understand and improve the results.
 
-## Exploring
+<br />
 
-**Agent engineering · AI-assisted development · Runtime infrastructure**
+<p align="center">
+  <img src="assets/icon-agent.svg" width="18" height="18" alt="" />&nbsp; <strong>Agent Engineering</strong> &nbsp; · &nbsp;
+  <img src="assets/icon-code.svg" width="18" height="18" alt="" />&nbsp; <strong>AI Development</strong> &nbsp; · &nbsp;
+  <img src="assets/icon-runtime.svg" width="18" height="18" alt="" />&nbsp; <strong>Runtime Infrastructure</strong>
+</p>
 
-Building **Open Agent Systems** to explore composable AI development tools and infrastructure.
+<h3 align="center">Open Agent Systems</h3>
 
-[Explore the organization ↗](https://github.com/Open-Agent-Systems) · [Visit the website ↗](https://open-agent-systems.github.io/)
+<p align="center">Building composable AI development tools and foundations.</p>
+
+<p align="center">
+  <a href="https://github.com/Open-Agent-Systems"><img src="assets/link-github-en.svg" width="144" height="36" alt="Visit GitHub organization" /></a>
+  &nbsp;
+  <a href="https://open-agent-systems.github.io/"><img src="assets/link-website-en.svg" width="144" height="36" alt="Visit website" /></a>
+</p>

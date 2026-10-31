@@ -17,10 +17,20 @@
 > **心有所向，行有所成。**  
 > Let purpose guide you. Let action define you.
 
-## 正在探索
+<br />
 
-**智能体工程 · AI 辅助研发 · 运行基础设施**
+<p align="center">
+  <img src="assets/icon-agent.svg" width="18" height="18" alt="" />&nbsp; <strong>智能体工程</strong> &nbsp; · &nbsp;
+  <img src="assets/icon-code.svg" width="18" height="18" alt="" />&nbsp; <strong>AI 辅助研发</strong> &nbsp; · &nbsp;
+  <img src="assets/icon-runtime.svg" width="18" height="18" alt="" />&nbsp; <strong>运行基础设施</strong>
+</p>
 
-正在建设 **Open Agent Systems**，探索可组合的 AI 开发工具与基础能力。
+<h3 align="center">Open Agent Systems</h3>
 
-[探索组织 ↗](https://github.com/Open-Agent-Systems) · [访问官网 ↗](https://open-agent-systems.github.io/zh/)
+<p align="center">正在建设，探索可组合的 AI 开发工具与基础能力。</p>
+
+<p align="center">
+  <a href="https://github.com/Open-Agent-Systems"><img src="assets/link-github-zh.svg" width="144" height="36" alt="访问 GitHub 组织" /></a>
+  &nbsp;
+  <a href="https://open-agent-systems.github.io/zh/"><img src="assets/link-website-zh.svg" width="144" height="36" alt="访问组织官网" /></a>
+</p>
