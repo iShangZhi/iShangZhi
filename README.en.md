@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/human-ai-horizon.jpg" width="100%" alt="A person and an AI companion looking toward a mountain sunrise, with foundation models, agents, and runtime infrastructure connected in cyan light." />
+  <a href="assets/human-ai-horizon.jpg"><img src="assets/human-ai-horizon.gif" width="680" alt="A person and an AI companion looking toward a mountain sunrise, with foundation models, agents, and runtime infrastructure connected in cyan light." /></a>
 </p>
 
 <p align="center">
@@ -8,11 +8,11 @@
 
 ## Hi, I'm Changfeng
 
-I'm Shangzhi Li, based in Shenzhen. I go by **长风 (Changfeng)** and build on GitHub as **iShangZhi**. I enjoy exploring the AI frontier and turning ideas into working code.
+I'm Shangzhi Li, based in Shenzhen. I go by **长风 (Changfeng)** and build on GitHub as **iShangZhi**. I explore the AI frontier by turning ideas into working code.
 
 I'm interested in how LLMs and agents change software development, and in one question in particular: **what engineering turns a model call into a system that can keep doing useful work?**
 
-I learn by experimenting, testing ideas, and building reusable tools. My aim is to make collaboration between people and AI more reliable, understandable, and sustainable.
+Learn, build, validate, and share the results as open-source tools. My aim is to make collaboration between people and AI more reliable and understandable.
 
 ## What I'm exploring
 
