@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="assets/human-ai-horizon.jpg"><img src="assets/human-ai-horizon.gif" width="480" alt="人与 AI 并肩眺望山间日出；大模型、智能体与运行基础设施在青蓝光影中连接。心有所向，行有所成。" /></a>
+  <a href="assets/human-ai-horizon.jpg"><img src="assets/human-ai-horizon.jpg" width="480" alt="人与 AI 并肩眺望山间日出；大模型、智能体与运行基础设施在青蓝光影中连接。心有所向，行有所成。" /></a>
 </p>
 
 <p align="center">
-  <strong>简体中文</strong> · <a href="README.en.md">English</a>
+  <strong>简体中文</strong> · <a href="README.en.md">English</a> · <a href="assets/human-ai-horizon.gif">查看动态版</a>
 </p>
 
 ### 你好，我是长风

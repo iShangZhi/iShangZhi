@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="assets/human-ai-horizon.jpg"><img src="assets/human-ai-horizon.gif" width="480" alt="A person and an AI companion looking toward a mountain sunrise, with foundation models, agents, and runtime infrastructure connected in cyan light." /></a>
+  <a href="assets/human-ai-horizon.jpg"><img src="assets/human-ai-horizon.jpg" width="480" alt="A person and an AI companion looking toward a mountain sunrise, with foundation models, agents, and runtime infrastructure connected in cyan light." /></a>
 </p>
 
 <p align="center">
-  <a href="README.md">简体中文</a> · <strong>English</strong>
+  <a href="README.md">简体中文</a> · <strong>English</strong> · <a href="assets/human-ai-horizon.gif">View animation</a>
 </p>
 
 ### Hi, I'm Changfeng
