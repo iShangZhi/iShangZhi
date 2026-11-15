@@ -1,34 +1,25 @@
 <p align="center">
-  <a href="assets/human-ai-horizon.jpg"><img src="assets/human-ai-horizon.gif" width="680" alt="A person and an AI companion looking toward a mountain sunrise, with foundation models, agents, and runtime infrastructure connected in cyan light." /></a>
+  <a href="assets/human-ai-horizon.jpg"><img src="assets/human-ai-horizon.gif" width="480" alt="A person and an AI companion looking toward a mountain sunrise, with foundation models, agents, and runtime infrastructure connected in cyan light." /></a>
 </p>
 
 <p align="center">
   <a href="README.md">简体中文</a> · <strong>English</strong>
 </p>
 
-## Hi, I'm Changfeng
+### Hi, I'm Changfeng
 
-I'm Shangzhi Li, based in Shenzhen. I go by **长风 (Changfeng)** and build on GitHub as **iShangZhi**. I explore the AI frontier by turning ideas into working code.
+I'm Shangzhi Li, also known as **长风 (Changfeng)**, based in Shenzhen. I explore LLMs, agents, and software engineering through hands-on projects.
 
-I'm interested in how LLMs and agents change software development, and in one question in particular: **what engineering turns a model call into a system that can keep doing useful work?**
+I want to turn model calls into **systems that can keep doing useful work and produce verifiable results**. I learn, build, validate, and share the results as open-source tools.
 
-Learn, build, validate, and share the results as open-source tools. My aim is to make collaboration between people and AI more reliable and understandable.
-
-## What I'm exploring
+### Areas of interest
 
 - **Agent engineering** — Execution, sessions, task management, and result validation, with a process that people can follow.
 - **AI-assisted development** — AI across requirements, coding, testing, and review; turning hands-on experience into reusable tools and methods.
 - **Runtime infrastructure** — Runtimes, sandbox isolation, and state recovery, with a focus on the reliability of long-running work.
 
-## Open Agent Systems
+### Open Agent Systems
 
 Building composable AI development tools and foundations.
 
-<p>
-  <a href="https://github.com/Open-Agent-Systems"><img src="assets/link-github-en.svg" width="144" height="36" alt="Visit GitHub organization" /></a>
-  &nbsp;
-  <a href="https://open-agent-systems.github.io/"><img src="assets/link-website-en.svg" width="144" height="36" alt="Visit website" /></a>
-</p>
-
-> **心有所向，行有所成。**<br />
-> Let purpose guide you. Let action define you.
+[GitHub organization](https://github.com/Open-Agent-Systems) · [Website](https://open-agent-systems.github.io/)
