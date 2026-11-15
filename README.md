@@ -1,16 +1,14 @@
-<p align="center">
-  <a href="assets/human-ai-horizon.jpg"><img src="assets/human-ai-horizon.jpg" width="480" alt="人与 AI 并肩眺望山间日出；大模型、智能体与运行基础设施在青蓝光影中连接。心有所向，行有所成。" /></a>
-</p>
+<p><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
 
-<p align="center">
-  <strong>简体中文</strong> · <a href="README.en.md">English</a> · <a href="assets/human-ai-horizon.gif">查看动态版</a>
-</p>
+<a href="assets/human-ai-horizon.jpg"><img align="right" src="assets/human-ai-horizon.jpg" width="42%" alt="人与 AI 并肩眺望山间日出：心有所向，行有所成。" /></a>
 
 ### 你好，我是长风
 
 李尚志，常用名**长风**，现居深圳。关注大模型、智能体与软件工程，在 GitHub 记录探索与实践。
 
 我希望把一次模型调用，变成**能持续完成工作、可验证结果的智能系统**。学习、构建、验证，再把经验沉淀为开源工具。
+
+<br clear="both" />
 
 ### 关注方向
 

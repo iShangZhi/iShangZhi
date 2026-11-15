@@ -1,16 +1,14 @@
-<p align="center">
-  <a href="assets/human-ai-horizon.jpg"><img src="assets/human-ai-horizon.jpg" width="480" alt="A person and an AI companion looking toward a mountain sunrise, with foundation models, agents, and runtime infrastructure connected in cyan light." /></a>
-</p>
+<p><a href="README.md">简体中文</a> · <strong>English</strong></p>
 
-<p align="center">
-  <a href="README.md">简体中文</a> · <strong>English</strong> · <a href="assets/human-ai-horizon.gif">View animation</a>
-</p>
+<a href="assets/human-ai-horizon.jpg"><img align="right" src="assets/human-ai-horizon.jpg" width="42%" alt="A person and an AI companion looking toward a mountain sunrise." /></a>
 
 ### Hi, I'm Changfeng
 
 I'm Shangzhi Li, also known as **长风 (Changfeng)**, based in Shenzhen. I explore LLMs, agents, and software engineering through hands-on projects.
 
 I want to turn model calls into **systems that can keep doing useful work and produce verifiable results**. I learn, build, validate, and share the results as open-source tools.
+
+<br clear="both" />
 
 ### Areas of interest
 
