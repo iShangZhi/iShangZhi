@@ -1,6 +1,6 @@
 <p><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
 
-<a href="assets/human-ai-horizon.jpg"><img align="right" src="assets/human-ai-horizon.jpg" width="42%" alt="人与 AI 并肩眺望山间日出：心有所向，行有所成。" /></a>
+<a href="assets/human-ai-horizon.jpg"><img align="right" src="assets/human-ai-horizon-light.jpg" width="42%" alt="人与 AI 并肩眺望山间日出：心有所向，行有所成。" /></a>
 
 ### 你好，我是长风
 

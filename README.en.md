@@ -1,6 +1,6 @@
 <p><a href="README.md">简体中文</a> · <strong>English</strong></p>
 
-<a href="assets/human-ai-horizon.jpg"><img align="right" src="assets/human-ai-horizon.jpg" width="42%" alt="A person and an AI companion looking toward a mountain sunrise." /></a>
+<a href="assets/human-ai-horizon.jpg"><img align="right" src="assets/human-ai-horizon-light.jpg" width="42%" alt="A person and an AI companion looking toward a mountain sunrise." /></a>
 
 ### Hi, I'm Changfeng
 
